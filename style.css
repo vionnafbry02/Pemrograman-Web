@@ -1,0 +1,30 @@
+* {
+    background-color: wheat;
+}
+
+.biodata {
+    color: rgb(76, 32, 40);
+}
+
+section h2 {
+    color: rgb(61, 167, 132);
+}
+
+.pengalaman{
+    font-size:large;
+    color: rgb(49, 60, 31);
+}
+
+section table{
+    font-size: large;
+}
+
+.nama {
+    color: olive;
+}
+.hobi{
+    color: rgb(59, 75, 26);
+}
+.kelahiran{
+    color: rgb(209, 47, 128);
+}
